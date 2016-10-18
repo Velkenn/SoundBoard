@@ -99,6 +99,7 @@
 				TargetAttributes = {
 					DCE596321DB5F33800E78403 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = ZTKQL2H46D;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -264,6 +265,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ZTKQL2H46D;
 				INFOPLIST_FILE = "Sound Board/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "stephen.Sound-Board";
@@ -276,6 +278,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ZTKQL2H46D;
 				INFOPLIST_FILE = "Sound Board/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "stephen.Sound-Board";
